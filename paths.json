@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/edge-delivery-accelerator/:/",
+    "/content/edge-delivery-accelerator/configuration:/.helix/config.json",
+    "/content/edge-delivery-accelerator/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/edge-delivery-accelerator/"
   ]
 }
